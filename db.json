@@ -1,0 +1,168 @@
+{
+    "categories": [
+      { 
+        "id": 1, 
+        "name": "Thực phẩm trức năng",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/883/883407.png"
+          }
+        ]
+      },
+      { 
+        "id": 2, 
+        "name": "Sữa rửa mặt" ,
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/949/949614.png"
+          }
+        ]
+      },
+      { 
+        "id": 3, 
+        "name": "Tẩy trang",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/5501/5501464.png"
+          }
+        ]
+      },
+      { 
+        "id": 4, 
+        "name": "Tẩy da chết",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/508/508832.png"
+          }
+        ]
+      },
+      { 
+        "id": 5, 
+        "name": "Serum",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/824/824779.png"
+          }
+        ] 
+      },
+      { 
+        "id": 6, 
+        "name": "Mask đắp mặt",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/3728/3728968.png"
+          }
+        ] 
+      },
+      { 
+        "id": 7, 
+        "name": "Sữa tắm",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/2911/2911396.png"
+          }
+        ] 
+      },
+      { 
+        "id": 8, 
+        "name": "Dầu gội",
+        "image": [
+          {
+            "url": "https://cdn-icons-png.flaticon.com/128/3462/3462062.png"
+          }
+        ] 
+      }
+    ],
+  
+    "products": [
+      { 
+        "id": 1,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "1000000",
+        "category": 1
+      },
+      {
+        "id": 2,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "500000",
+        "category": 1
+      },
+      {
+        "id": 3,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "200000",
+        "category": 1
+      },
+      {
+        "id": 4,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "200000",
+        "category": 1
+      },
+      {
+        "id": 5,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "200000",
+        "category": 2
+      },
+      {
+        "id": 6,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "200000",
+        "category": 2
+      },
+      {
+        "id": 7,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "200000",
+        "category": 2
+      },
+      {
+        "id": 8,
+        "image": [
+          {
+            "url": "https://reactnative.dev/img/tiny_logo.png"
+          }
+        ],
+        "name": "Thực phẩm trức năng",
+        "price": "200000",
+        "category": 3
+      }
+    ]
+  }
+  
